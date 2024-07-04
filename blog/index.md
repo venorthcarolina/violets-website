@@ -1,14 +1,13 @@
 ---
-title: Blog
+title: Welcome to Violet's Blog
 nav:
   order: 4
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa fa-heart" %}Blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Hi everyone, and welcome to my blog. Below, you'll see some of my past blog posts. I hope to keep up with my blog as I continue to grow as a biostatistician, data scientist, and individual.
 
 {% include section.html %}
 
