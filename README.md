@@ -1,5 +1,5 @@
 
-# venorthcarolinaDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Welcome to Violet's Website
 
 Visit **[venorthcarolina.github.io/violets-website](https://venorthcarolina.github.io/violets-website)** 🚀
 
