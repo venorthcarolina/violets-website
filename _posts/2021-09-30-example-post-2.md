@@ -1,6 +1,6 @@
 ---
-title: Example post 2
-author: jane-smith
+title: Blog Post 2
+author: violet-evans
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Content to be pasted.
