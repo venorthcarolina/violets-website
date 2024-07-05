@@ -1,7 +1,7 @@
 
 # Welcome to Violet's Website
 
-## Hi everyone! Welcome to my personal website. Feel free to check it out below:
+### Hi everyone! Welcome to my personal website. Feel free to check it out below:
 
 **[venorthcarolina.github.io/violets-website](https://venorthcarolina.github.io/violets-website)** 🚀
 
