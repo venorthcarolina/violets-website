@@ -7,25 +7,18 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Blurb and words to be updated
 
 {%
   include button.html
   type="email"
   text="vwevans at alumni.unc.edu"
-  link="vwevans at alumni.unc.edu"
+  link="vwevans@alumni.unc.edu"
 %}
+
 {%
   include button.html
   type="phone"
-  text="(919)896-1316"
-  link="+1-919-896-1316"
-%}
-{%
-  include button.html
-  type="LinkedIn"
   tooltip="My LinkedIn Profile"
   link="https://www.linkedin.com/in/violet-wen-evans/"
 %}
@@ -47,7 +40,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="Photo #2"
 %}
 
 {% endcapture %}
