@@ -2,7 +2,7 @@
 title: Blog
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Past Blog Posts
 ---
 
 # {% include icon.html icon="fa fa-heart" %}Blog
