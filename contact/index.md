@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-As a recent graduate of the Institute for Advanced Analytics at North Carolina State University (NCSU) with an M.S. in Analytics, I am enthusiastic about applying my statistics and data science knowledge to explore organizations that leverage big data to tackle pressing challenges. I also have undergraduate experience in biostatistics, health equity, and research from UNC Chapel Hill. 
-
-In my free time, you might find me running, exploring new cities, or trying out local restaurants with friends.
+As a recent graduate of the Institute for Advanced Analytics at North Carolina State University (NCSU) with an M.S. in Analytics, I am enthusiastic about applying my statistics and data science knowledge to explore organizations that leverage big data to tackle pressing challenges. I also have undergraduate experience in biostatistics, health equity, and research from UNC Chapel Hill. In my free time, you might find me running, exploring new cities, or trying out local restaurants with friends. I am currently located in North Carolina!
 
 If you'd like to chat more, please feel free to contact me at my email or LinkedIn above. Let’s connect!
 
