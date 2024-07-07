@@ -18,7 +18,7 @@ Blurb and words to be updated
 
 {%
   include button.html
-  type="phone"
+  type= "phone"
   tooltip="My LinkedIn Profile"
   link="https://www.linkedin.com/in/violet-wen-evans/"
 %}
@@ -39,8 +39,8 @@ Blurb and words to be updated
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Photo #2"
+  image="images/IMG_3917.jpg"
+  caption="NCSU Summer Practicum Team"
 %}
 
 {% endcapture %}
