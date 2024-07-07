@@ -1,5 +1,5 @@
 ---
-title: Welcome to Violet's Blog
+title: Blog
 nav:
   order: 4
   tooltip: Musings and miscellany
