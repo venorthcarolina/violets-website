@@ -1,8 +1,8 @@
 ---
 title: Blog
 nav:
-  order: 4
-  tooltip: Past Blog Posts
+  order: 3
+  tooltip: Personal Blog Posts
 ---
 
 # {% include icon.html icon="fa fa-heart" %}Blog
