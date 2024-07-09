@@ -5,7 +5,7 @@
 
 {% include section.html %}
 
-## {% include icon.html icon="fa fa-heart" %}About
+## {% include icon.html icon="fas fa-cat" %}About
 
 Hi everyone! My name is Violet, and I am a recent graduate of the Institute for Advanced Analytics (IAA) at North Carolina State University, where I earned my M.S. in Analytics. I thoroughly enjoyed my year at the IAA, taking courses in statistics, logistic regression, and time series. I also served as Scrum Master for my yearlong practicum with Antares Tech. In this role, I worked on a team of five to help manage the product backlog and set up biweekly sprints following Agile Methodology. Our student team successfully delivered three main deliverables to support customer retention strategies. 
 

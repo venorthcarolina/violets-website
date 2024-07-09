@@ -5,7 +5,7 @@ nav:
   tooltip: Personal Blog Posts
 ---
 
-# {% include icon.html icon="fa fa-heart" %}Blog
+# {% include icon.html icon="fa fa-cloud" %}Blog
 
 Hi everyone, and welcome to Violet's blog. Below, you'll see some of my past blog posts. I hope to keep up with my blog as I continue to grow as a biostatistician, data scientist, and individual.
 
