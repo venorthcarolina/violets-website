@@ -1,8 +1,8 @@
 ---
-title: Example post 3
+title: An Analysis of Boba Yelp Reviews
 image: images/photo.jpg
 author: violet-evans
-tags: biology, medicine
+tags: no tag, teamwork
 ---
 
 Content to be posted.
