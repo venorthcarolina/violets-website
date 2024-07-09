@@ -5,7 +5,7 @@ nav:
   tooltip: Experiences
 ---
 
-# {% include icon.html icon="fa fa-heart" %}Resume and Past Experiences
+# {% include icon.html icon="fa fa-heart" %} Resume and Past Experiences
 
 Words to be updated.
 
