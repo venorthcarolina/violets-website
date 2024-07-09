@@ -1,8 +1,8 @@
 ---
-title: My Research
+title: Portfolio
 nav:
   order: 1
-  tooltip: Research Experiences
+  tooltip: Past Research & Projects
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research

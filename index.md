@@ -3,7 +3,6 @@
 
 # Welcome to Violet's Website
 
-
 {% include section.html %}
 
 ## {% include icon.html icon="fa fa-heart" %}About

@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Past Experiences
 nav:
   order: 2
-  tooltip: Side Projects & More
+  tooltip: Resume
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
