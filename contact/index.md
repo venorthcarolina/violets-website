@@ -7,10 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-As a recent graduate of the Institute for Advanced Analytics at North Carolina State University (NCSU) with an M.S. in Analytics, I am enthusiastic about applying my statistics and data science knowledge to explore organizations that leverage big data to tackle pressing challenges. I also have undergraduate experience in biostatistics, health equity, and research from UNC Chapel Hill. 
-
-If you'd like to chat more, please feel free to contact me at my email or LinkedIn below. Let’s connect!
-
+If you'd like to learn more about me, or simply chat about cats, marathon training, or solo traveling, please feel free to contact me via email or LinkedIn below. Let’s connect!
 
 {%
   include button.html
@@ -21,7 +18,7 @@ If you'd like to chat more, please feel free to contact me at my email or Linked
 
 {%
   include button.html
-  type= "LinkedIn"
+  type= "button"
   tooltip="LinkedIn"
   link="https://www.linkedin.com/in/violet-wen-evans/"
 %}
