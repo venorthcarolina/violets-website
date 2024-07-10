@@ -2,7 +2,7 @@
 title: Contact
 nav:
   order: 4
-  tooltip: Email and LinkedIn
+  tooltip: Email & LinkedIn
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
