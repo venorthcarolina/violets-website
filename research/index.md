@@ -19,3 +19,4 @@ I also enjoy exploring topics outside the classroom and working on side projects
 
 {% include search-info.html %}
 
+{% include list.html data="citations" component="violet" style="magenta" %}

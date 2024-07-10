@@ -1,0 +1,135 @@
+
+{% if include.lookup %}
+  {% assign citation = site.data.citations
+    | where_exp: "citation",
+      "citation.id == include.lookup or citation.title contains include.lookup"
+    | first
+  %}
+{% else %}
+  {% assign citation = include %}
+{% endif %}
+
+<div class="citation-container">
+  <div class="citation">
+    {% if include.style == "rich" %}
+      <a
+        {% if citation.link %}
+          href="{{ citation.link | relative_url }}"
+        {% endif %}
+        class="citation-image"
+        aria-label="{{ citation.title | default: "citation link" }}"
+      >
+        <img
+          src="{{ citation.image | relative_url }}"
+          alt="{{ citation.title | default: "citation image" }}"
+          loading="lazy"
+          {% include fallback.html %}
+        >
+      </a>
+    {% endif %}
+
+    <div class="citation-text">
+      {% assign type = site.data.types[citation.type] %}
+      {% include icon.html icon=type.icon %}
+
+      <a
+        {% if citation.link %}
+          href="{{ citation.link | relative_url }}"
+        {% endif %}
+        class="citation-title"
+      >
+        {{ citation.title | default: "[no title info]" }}
+      </a>
+
+      <div
+        class="citation-authors"
+        {% if citation.authors.size > 10 %}
+          data-tooltip="{{ citation.authors | join: ", " }} "
+        {% endif %}
+        tabindex="0"
+      >
+        {{
+          citation.authors
+          | join: ","
+          | split: ","
+          | array_carve: 5
+          | join: ", "
+          | markdownify
+          | remove: "<p>" | remove: "</p>"
+          | default: "[no author info]"
+        }}
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">
+          {{- citation.publisher | default: "[Violet Evans]" -}}
+        </span>
+        &nbsp;·&nbsp;
+        <span class="citation-date">
+          {{- citation.date | default: "[no publisher date]" | date: "%d %b %Y" -}}
+        </span>
+        &nbsp;·&nbsp;
+        <span class="citation-id">
+          {{- citation.id | default: "[no id info]" -}}
+        </span>
+      </div>
+
+      {% if include.style == "rich" %}
+        {% if citation.description %}
+          <div class="citation-description">
+            {{
+              citation.description
+              | markdownify
+              | remove: "<p>"
+              | remove: "</p>"
+            }}
+          </div>
+        {% endif %}
+
+        {% if citation.buttons.size > 0 %}
+          <div class="custom-citation-buttons">
+            {% for button in citation.buttons %}
+              <button type="{{ button.type }}" class="custom-button" onclick= "window.location.href='{{ button.link }}'">
+                <i class="{{ button.icon }}"></i> {{ button.text }}
+              </button>
+            {% endfor %}
+          </div>
+          <style>
+            .custom-citation-buttons {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 10px;
+            }
+        
+            .custom-button {
+                background-color: #9672F4;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+                padding: 10px 15px;
+                font-size: 14px;
+                color: #333;
+                text-decoration: none;
+                transition: background-color 0.3s ease;
+                display: flex;
+                align-items: center;
+            }
+        
+            .custom-button i {
+                margin-right: 5px;
+            }
+        
+            .custom-button:hover {
+                background-color: #e0e0e0;
+            }
+        </style>
+
+
+        {% endif %}
+
+        {% if citation.tags.size > 0 or citation.repo %}
+          {% include tags.html tags=citation.tags repo=citation.repo %}
+        {% endif %}
+      {% endif %}
+    </div>
+  </div>
+</div>
