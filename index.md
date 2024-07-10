@@ -17,7 +17,7 @@ In my free time, you might find me running, exploring new cities, or trying out 
 {% include figure.html image="images/MSA_Share20.jpeg" %}
 <style>
   img {
-    max-width: 100px;
-    max-height: 150px;
+    max-width: 300px;
+    max-height: 350px;
   }
 </style>
