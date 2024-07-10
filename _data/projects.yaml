@@ -6,6 +6,15 @@
   description: I created a study with non-biomedical IRB rights that investigates the relationship between being a Chinese woman born under the One Child Policy and satisfaction in both personal life and careers. This was as a 2021 Summer Undergraduate Research Fellowship (SURF) Recipient under the supervision of Dr. Gang Yue.  Specifically, the project included both quantitative and qualitative elements. I recruited 66 female participants and used SAS 9.4 to assess participants' satisfaction outcomes in both personal life and career aspects; I also performed descriptive and thematic analyses in ATLAS.ti following the verbal interviews.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - research
 
+- title: Empowering Singleton Girls; An Anthropological Study on the Unintended Consequences of China's One Child Policy (2022)
+  subtitle: Sponsored by UNC Office of Undergraduate Research
+  group: research
+  image: images/photo.jpg
+  link: https://our.unc.edu/abstract/evans-empowering-singleton-girls-an-anthropological-study-on-the-unintended-consequences-of-chinas-one-child-policy/
+  description: I created a study with non-biomedical IRB rights that investigates the relationship between being a Chinese woman born under the One Child Policy and satisfaction in both personal life and careers. This was as a 2021 Summer Undergraduate Research Fellowship (SURF) Recipient under the supervision of Dr. Gang Yue.  Specifically, the project included both quantitative and qualitative elements. I recruited 66 female participants and used SAS 9.4 to assess participants' satisfaction outcomes in both personal life and career aspects; I also performed descriptive and thematic analyses in ATLAS.ti following the verbal interviews.
+  repo: greenelab/lab-website-template
+  tags:
+    - projects
 
