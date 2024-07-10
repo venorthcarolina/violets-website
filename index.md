@@ -14,11 +14,10 @@ My undergraduate degrees are in Biostatistics (B.S.P.H.) and Asian Studies- Chin
 In my free time, you might find me running, exploring new cities, or trying out local restaurants with friends. As a Raleigh native, I am still currently located in the City of Oaks.
 
 
-{% 
-  include figure.html
-  image="images/MSA_Share20.jpeg" 
+{% include figure.html image="images/MSA_Share20.jpeg" %}
+<style>
   img {
     max-width: 100px;
     max-height: 150px;
-}
-%}
+  }
+</style>
