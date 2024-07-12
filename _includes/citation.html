@@ -61,15 +61,11 @@
 
       <div class="citation-details">
         <span class="citation-publisher">
-          {{- citation.publisher | default: "[no publisher info]" -}}
+          {{- citation.publisher | default: "[Violet Evans]" -}}
         </span>
         &nbsp;·&nbsp;
         <span class="citation-date">
           {{- citation.date | default: "[no publisher date]" | date: "%d %b %Y" -}}
-        </span>
-        &nbsp;·&nbsp;
-        <span class="citation-id">
-          {{- citation.id | default: "[no id info]" -}}
         </span>
       </div>
 
