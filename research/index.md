@@ -19,6 +19,8 @@ I also enjoy exploring topics outside the classroom and working on side projects
 
 {% include search-info.html %}
 
+{% include list.html data="citations" component="citation" style="rich" %}
+
 {% 
   include list.html 
   component="card" 
