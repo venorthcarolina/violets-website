@@ -16,7 +16,7 @@ In my free time, you might find me running, exploring new cities, or trying out 
 {% include figure.html image="images/Violet_Evans_Headshot.jpg" %}
 <style>
   img {
-    max-width: 200px;
-    max-height: 250px;
+    max-width: 250px;
+    max-height: 300px;
   }
 </style>
