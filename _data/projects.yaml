@@ -14,7 +14,7 @@
   group: projects
   image: images/MSA_Share20.jpeg
   link: https://gloria-su.github.io/boba_bookdown/index.html
-  description: My project partner and I utilized Python to scrape 114 rows of data from Yelp to analyze factors contributing to boba shop ratings across Raleigh, NC and New York City, NY. Using R, I found a significance difference in mean ratings and determined 7 important variables explaining why Raleigh boba shops are rated higher than New York City. I published my data and results in a Bookdown and repository on GitHub.
+  description: My project partner and I utilized Python to scrape 114 rows of data from Yelp to analyze factors contributing to boba shop ratings across Raleigh, NC and New York City, NY. Using R, I found a significance difference in mean ratings and determined 7 important variables explaining why Raleigh boba shops are rated higher than New York City. I published my data and results in a Bookdown and repository on GitHub, which can be accessed by clicking the link above.
   tags:
     - boba tea
     - Yelp
