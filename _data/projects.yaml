@@ -22,15 +22,16 @@
     - NC State
     - IAA
 
-- title: Duke-UNC China Leadership Summit (2023-2023)
+- title: Duke-UNC China Leadership Summit (CLS)
   subtitle: Side Project by Violet Evans and Gloria Su
   group: projects
   image: images/duke_unc_cls2022.jpeg
   link: https://www.dukeunccls.com/past-summits.html
-  description: My project partner Gloria Su and I utilized Python to scrape 114 rows of data from Yelp to analyze factors contributing to boba shop ratings across Raleigh, NC and New York City, NY. Using R, I found a significance difference in mean ratings and determined 7 important variables explaining why Raleigh boba shops are rated higher than New York City. I published my data and results in a Bookdown and repository on GitHub, which can be accessed by clicking the link above.
+  description: As the UNC Director of the 2023 CLS, I organized a team of 15 undergraduate students and spearheaded operations for planning a conference with a budget exceeding $15k. Collaborating with my Duke Co-Director, we achieved a 150% increase in student delegate attendance compared to previous years, with over 300 student applications. Previously, I served as the treasurer for CLS (2021-2022) and was an attendee (2020-2021).
   tags:
     - director
     - US China relations
     - unc chapel hill
+    - conference
 
 
