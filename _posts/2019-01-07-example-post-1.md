@@ -1,14 +1,12 @@
 ---
-title: Blog #1 
-author: violet-evans
+title: Why Data Analytics?
+author: Violet Evans
 tags:
   - graduate school
-  - North Carolina
+  - NCSU
   - Institute for Advanced Analytics
 ---
 
-Why Data Analytics?…
-Posted on November 7, 2023
 During my first week in the program, the question I received the most was: “What made you want to come to the Institute?” Although my answer is complex, most often, I would respond that I studied biostatistics at UNC for my undergraduate studies – as if this was an explanation for pursuing graduate school. In this post, I reflect on my monumental experiences in undergrad by exploring my gradual realization of why I needed a master’s degree and discussing why I chose data analytics.
 
 Reflection On Internship Experiences
