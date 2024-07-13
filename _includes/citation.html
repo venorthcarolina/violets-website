@@ -63,10 +63,6 @@
         <span class="citation-publisher">
           {{- citation.publisher | default: "[Violet Evans]" -}}
         </span>
-        &nbsp;·&nbsp;
-        <span class="citation-date">
-          {{- citation.date | default: "[no publisher date]" | date: "%d %b %Y" -}}
-        </span>
       </div>
 
       {% if include.style == "rich" %}
