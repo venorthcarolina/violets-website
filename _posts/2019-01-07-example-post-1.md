@@ -19,6 +19,7 @@ The jobs right out of undergrad fit for my skill set seemed to be focused on sta
 
 My summer, fall, and spring at NIEHS was a huge learning curve, but it provided time where I could experiment in R Studio, better understand bioinformatics, and explore a federal research environment. My program guided eleven undergraduates in professional workshops and through poster presentations to a broader NIEHS audience. I found value in the networking opportunities and the collaborative teamwork elements of the program. I also realized I enjoyed the coding and problem-solving more than the aspects of genomic data and methodology.
 
+{% include section.html %}
 Reflection On Graduate School
 
 I recognized the necessity of obtaining a master’s degree, yet the recurring question that plagued me was, “Which specific field should I pursue?” Some criteria that cycled through my mind included being relatively affordable, with a strong preference for in-state in North Carolina, having less than a two-year commitment, and providing a strong record for employment following graduation. I debated between a degree in public health, business, or statistics; specifically, UNC has a great two-year biostatistics master of science, and Boston University has a one-year applied biostatistics program with good ties to the life sciences.
