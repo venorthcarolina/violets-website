@@ -27,24 +27,33 @@ If you'd like to learn more about me, or simply chat about cats, marathon traini
 {% include section.html %}
 
 {% capture col1 %}
-
 {%
   include figure.html
   image="images/team antares.jpg"
   caption="NCSU Practicum Team Blue 8"
 %}
-
+<style>
+  img {
+    max-width: 250px;
+    max-height: 300px;
+  }
+</style>
 {% endcapture %}
 
 {% capture col2 %}
-
-{%
-  include figure.html
-  image="images/IMG_3917.jpg"
+{% 
+  include figure.html image="images/IMG_3917.jpg"
   caption="NCSU Summer Practicum Team"
 %}
-
+<style>
+  img {
+    max-width: 250px;
+    max-height: 300px;
+  }
+</style>
 {% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
 
