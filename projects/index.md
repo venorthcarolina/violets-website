@@ -15,7 +15,7 @@ As a recent M.S. in Analytics graduate from the Institute for Advanced Analytics
 
 {% include section.html %}
 
-{% include figure.html image="images/resume_pic.png" %}
+{% include figure.html image="images/resume_FINAL.png" %}
 <style>
   img {
     max-width: 700px;
