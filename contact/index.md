@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-If you'd like to learn more about me, or simply chat about cats, marathon training, or solo traveling, please feel free to contact me via email or LinkedIn below. Let’s connect!
+If you're interested in learning more about me or just want to chat about cats, marathon training, or solo traveling, feel free to reach out via email or LinkedIn below. Let’s connect!
 
 {%
   include button.html
