@@ -12,14 +12,16 @@ If you'd like to learn more about me, or simply chat about cats, marathon traini
 {%
   include button.html
   type="email"
+  tooltip="Email"
   text="vwevans at alumni.unc.edu"
   link="vwevans@alumni.unc.edu"
 %}
 
 {%
   include button.html
-  type= "button"
+  type= "link"
   tooltip="LinkedIn"
+  text="LinkedIn"
   link="https://www.linkedin.com/in/violet-wen-evans/"
 %}
 
