@@ -52,8 +52,8 @@ If you'd like to learn more about me, or simply chat about cats, marathon traini
 
 {% capture col3 %}
 {% 
-  include figure.html image="images/I04824_iaa_graduation423.jpg"
-  caption="NCSU Practicum Team at Graduation"
+  include figure.html image="images/Violet Evans.jpg"
+  caption="Shaking Dr. Rappa's Hand at Graduation"
 %}
 <style>
   img {
