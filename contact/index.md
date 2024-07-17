@@ -23,6 +23,7 @@ If you'd like to learn more about me, or simply chat about cats, marathon traini
   link="https://www.linkedin.com/in/violet-wen-evans/"
 %}
 
+{% capture col1 %}
 {%
   include figure.html
   image="images/team antares.jpg"
@@ -34,7 +35,9 @@ If you'd like to learn more about me, or simply chat about cats, marathon traini
     max-height: 300px;
   }
 </style>
+{% endcapture %}
 
+{% capture col2 %}
 {% 
   include figure.html image="images/IMG_3917.jpg"
   caption="NCSU Summer Practicum Team"
@@ -45,11 +48,12 @@ If you'd like to learn more about me, or simply chat about cats, marathon traini
     max-height: 300px;
   }
 </style>
+{% endcapture %}
 
-
+{% capture col3 %}
 {% 
   include figure.html image="images/I04824_iaa_graduation423.jpg"
-  caption="NCSU Summer Practicum Team"
+  caption="NCSU Practicum Team at Graduation"
 %}
 <style>
   img {
@@ -57,8 +61,7 @@ If you'd like to learn more about me, or simply chat about cats, marathon traini
     max-height: 300px;
   }
 </style>
-
-{% include cols.html col1=col1 col2=col2 %}
+{% endcapture %}
 
 {% include section.html dark=true %}
 
