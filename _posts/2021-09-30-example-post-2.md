@@ -1,6 +1,6 @@
 ---
 title: Blog Post 2
-author: violet-evans
+author: Violet Evans
 ---
 
 Content to be pasted.
