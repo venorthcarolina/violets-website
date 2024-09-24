@@ -11,7 +11,7 @@ Hi everyone! My name is Violet, and I am a recent graduate of the Institute for 
 
 My undergraduate degrees are in Biostatistics (B.S.P.H.) and Asian Studies- Chinese (B.A.) from UNC Chapel Hill. Passionate about quantitative aspects and interested in global perspectives, I chose to pursue a public health degree with a quantitative focus, aspiring to make a real-world impact on populations. I also minored in Mathematics and served as an Undergraduate Learning Assistant (ULA) for my favorite course, differential equations. 
 
-In my free time, you might find me running, exploring new cities, or trying out local restaurants with friends. As a Raleigh native, I am still currently located in the City of Oaks.
+In my free time, you might find me running, exploring new cities, or trying out local restaurants with friends. As a Raleigh native, I am still currently located in North Carolina.
 
 {% include figure.html image="images/Violet_Evans_Headshot.jpg" %}
 <style>
