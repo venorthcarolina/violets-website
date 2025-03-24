@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:39530122
+  title: A genome-wide association study identifies genetic determinants of hemoglobin
+    glycation index with implications across sex and ethnicity.
+  authors:
+  - John S House
+  - Joseph H Breeyear
+  - Farida S Akhtari
+  - Violet Evans
+  - John B Buse
+  - James Hempe
+  - Alessandro Doria
+  - Josyf C Mychaleckyi
+  - Vivian Fonseca
+  - Mengyao Shi
+  - Changwei Li
+  - Shuqian Liu
+  - Tanika N Kelly
+  - Daniel Rotroff
+  - Alison A Motsinger-Reif
+  publisher: Frontiers in endocrinology
+  date: '2024-10-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39530122
+  orcid: 0000-0002-2142-3059
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
