@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa fa-heart" %} Resume & Past Experiences
 
-As a recent M.S. in Analytics graduate from the Institute for Advanced Analytics at NCSU, I am eager to apply my statistics and data science skills to organizations that leverage big data to tackle pressing challenges. I also have an undergraduate background in biostatistics, health equity, and research from UNC Chapel Hill. Please see below for additional information about my past experiences.
+I am interested in applying my statistics and data science skills to organizations that leverage big data to drive decision-making and address pressing challenges. I hold an M.S. in Analytics and a B.S.P.H. in Biostatistics, with additional experience in health equity, research, and teaching. Please see below for more information about me.
 
 {% include tags.html tags="UNC Chapel Hill, NCSU, Biostatistics, Data Science, Research" %}
 
